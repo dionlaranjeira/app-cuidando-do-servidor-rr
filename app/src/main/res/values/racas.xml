@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="selecao_racas">
+        <item>Parda</item>
+        <item>Branca</item>
+        <item>Negra</item>
+        <item>indígena</item>
+    </string-array>
+
+</resources>

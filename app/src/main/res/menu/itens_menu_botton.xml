@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_cadastrais"
+        android:icon="@drawable/ic_register"
+        android:title="CADASTRAIS"></item>
+
+    <item android:id="@+id/menu_saude"
+        android:title="SAÚDE"></item>
+
+    <item android:id="@+id/menu_clinicos"
+        android:title="CLÍNICOS"></item>
+
+    <item android:id="@+id/menu_relatorios"
+        android:title="RELATÓRIOS"></item>
+</menu>
