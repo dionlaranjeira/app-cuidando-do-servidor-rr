@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054215410356",
+    "firebase_url": "https://app-cuidando-do-servidor-2020.firebaseio.com",
+    "project_id": "app-cuidando-do-servidor-2020",
+    "storage_bucket": "app-cuidando-do-servidor-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054215410356:android:f331e4c479b064b3ac3de1",
+        "android_client_info": {
+          "package_name": "com.example.aplicativocuidandodoservidorrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054215410356-3j1e9psfeinvumavtvs2lb8v5tdkf2ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicativocuidandodoservidorrr",
+            "certificate_hash": "7704576f63f1b5ce1e096a39cd12a9b7846d4ce6"
+          }
+        },
+        {
+          "client_id": "1054215410356-utj1babodj5jqtlgh16os8972mm2mk9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0P_INHZUXql3vWEjLF3oiinOvJWbHl9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054215410356-utj1babodj5jqtlgh16os8972mm2mk9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
